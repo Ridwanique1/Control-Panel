@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['subdomain'])) {
 </head>
 <body>
     <div class="container mt-5">
-        <h1>Add Subdomain</h1>
+        <h1>Add a Subdomain</h1>
         <a href="domain_manager.php" class="btn btn-secondary mb-3">Back to Domain Manager</a>
     </div>
 </body>
